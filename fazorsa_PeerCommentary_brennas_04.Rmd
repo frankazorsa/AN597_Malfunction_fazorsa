@@ -16,7 +16,8 @@ I commented out the creation of NULL values, since they arent needed, and moved 
 The math is the same in all, probably just to make testing the statements easier? I got all the equations from [Module 10](https://fuzzyatelin.github.io/bioanth-stats/module-10/module-10.html)
 I also added a sample of the error messages I used for normality assumptions
 
-
+For Q2
+All the code you have for the question looks good so far. Dont forget to do the log function version as well
 ***
 ###First question: 
 Write a simple R function, Z.prop.test(), that can perform one- or two-sample Z-tests for proportion data, using the following guidelines:
